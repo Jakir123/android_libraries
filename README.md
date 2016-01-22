@@ -1,5 +1,3 @@
-# Must Have Libraries
-
-## Please go through the following link.
+# List of some Libraries and Framworks for Android.
 
 https://github.com/Jakir123/android_libraries/wiki/Must-Have-Libraries
